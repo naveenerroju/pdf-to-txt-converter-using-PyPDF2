@@ -1,0 +1,6 @@
+The only changes you have to make is giving the path to the files.
+Make sure to use front slashes in path, '/', not backslashes.
+
+If you wish to use the enhanced version of this, check my github profile that takes the path of the file from the console. so to convert multiple files, you dont have to change the code.
+
+github: https://github.com/naveenerroju
